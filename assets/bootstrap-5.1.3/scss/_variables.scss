@@ -40,6 +40,7 @@ $blue:    #0d6efd !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #d63384 !default;
+$pinkNew: #cf649a !default;
 $red:     #dc3545 !default;
 $orange:  #fd7e14 !default;
 $yellow:  #ffc107 !default;
@@ -54,6 +55,7 @@ $colors: (
   "indigo":     $indigo,
   "purple":     $purple,
   "pink":       $pink,
+  "pinkNew":    $pinkNew,
   "red":        $red,
   "orange":     $orange,
   "yellow":     $yellow,
@@ -86,7 +88,9 @@ $theme-colors: (
   "warning":    $warning,
   "danger":     $danger,
   "light":      $light,
-  "dark":       $dark
+  "dark":       $dark,
+  "pinkNew":    $pinkNew
+
 ) !default;
 // scss-docs-end theme-colors-map
 
